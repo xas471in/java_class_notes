@@ -1,4 +1,4 @@
-# Java Arrays — Class 10 Learning Guide
+# Java Arrays —  Learning Guide
 
 > **Goal:** Learn arrays step by step, understand how to solve array problems, and practise without depending on ready-made answers.
 >
@@ -504,7 +504,7 @@ Before coding, decide what should happen if the target appears more than once: r
 
 # Level 3 — Advanced Arrays
 
-These problems combine multiple array operations. Some may be beyond a particular Class 10 board's syllabus, so use them as enrichment if needed.
+These problems combine multiple array operations. Some may be beyond a particular  board's syllabus, so use them as enrichment if needed.
 
 ## 1. Bubble sort
 
@@ -817,7 +817,7 @@ System.out.println(count); // 3
 ### B3. Count alphabetic characters in a sentence
 
 ```java
-String str = "Java Class 10!";
+String str = "Java !";
 int count = 0;
 
 for (int i = 0; i < str.length(); i++) {
